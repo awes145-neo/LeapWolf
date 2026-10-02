@@ -1,0 +1,7 @@
+build/
+wolf3d.log
+CONFIG.*
+.DS_Store
+.vscode
+obj
+binToRib
