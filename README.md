@@ -85,9 +85,9 @@ Refer to the sheet below for the targets. If you need something else, you can co
 
 | Target| Version | Extension |
 |---|---|---|
-| `wolf` | Wolfenstein 3D, v1.4 (Activision / GT / id) | `*.WL6` |
-| `shareware` | Wolfenstein 3D shareware v1.4 | `*.WL1` |
-| `sod` | Spear of Destiny, v1.4 (Activision) | `*.SOD` |
+| `wolf` | Wolfenstein 3D Full (v1.4 Activision) | `*.WL6` |
+| `shareware` | Wolfenstein 3D Shareware (v1.4) | `*.WL1` |
+| `sod` | Spear of Destiny (v1.4 Activision) | `*.SOD` |
 
 ## Controls
 | Button | Action | Menu Action |
