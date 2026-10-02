@@ -10,9 +10,9 @@ You must supply your own data files.
 
 | File | Version | Extension |
 |---|---|---|
-| `wolf.zip` | Wolfenstein 3D Full (v1.4 Activision) | `*.WL6` |
-| `wolf1v.zip` | Wolfenstein 3D Shareware (v1.4) | `*.WL1` |
-| `sod.zip` | Spear of Destiny (v1.4 Activision) | `*.SOD` |
+| [wolf.zip](https://github.com/awes145-neo/LeapWolf/releases/download/v1.0/wolf.zip) | Wolfenstein 3D Full (v1.4 Activision) | `*.WL6` |
+| [wolf1v.zip](https://github.com/awes145-neo/LeapWolf/releases/download/v1.0/wolf1v.zip) | Wolfenstein 3D Shareware (v1.4) | `*.WL1` |
+| [spear.zip](https://github.com/awes145-neo/LeapWolf/releases/download/v1.0/spear.zip) | Spear of Destiny (v1.4 Activision) | `*.SOD` |
 
 2. Using a tool like [LFTools](https://github.com/lfhacks/LFTools), mount the device using the command `sudo ./lftools -m 2` or, if on an Admin Windows Command Prompt, `lftools.exe -m 2`. (Alternatively, if your Leapster2 has an SD slot, pop out the SD card and use an SD reader)
 
