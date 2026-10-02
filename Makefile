@@ -11,7 +11,7 @@ CFLAGS = $(ARCH) -O2 -ffreestanding -fno-builtin -Wall -Iplatform/include -Iplat
 LDFLAGS = $(ARCH) -nostdlib -T platform/leapster.ld -Wl,-Map,$@.map,--no-warn-rwx-segments
 LIBS = -lgcc
 
-PLATFORM = start l2 libc con
+PLATFORM = start l2 libc conl2
 PLAT_OBJ = $(PLATFORM:%=build/platform/%.o) build/platform/stack.o
 
 build/platform/%.o: platform/%.c platform/*.h
